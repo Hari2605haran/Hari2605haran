@@ -14,8 +14,8 @@ I’m actively looking to collaborate on:
 - **Cybersecurity research and innovations**
 
 ## 📫 Connect With Me  
-- **LinkedIn**: [Hariharasudhan B](https://www.linkedin.com/in/hariharasudhan-b-ab5039224/)  
-- **Email**: [YourEmail@example.com] (Optional: Add your email here if you want)  
+- **LinkedIn**: [Hariharasudhan B](https://www.linkedin.com/in/hariharasudhan-b-ab5039224/] 
+- **Email**: [harisudhanbv@gmail.com]  
 
 ## 😄 Pronouns  
 He/Him  
