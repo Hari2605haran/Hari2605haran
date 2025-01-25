@@ -12,6 +12,6 @@
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: dark mode to avoid bugs
+⚡ Fun fact: hunting bugs and network vulnerabilities 
 
 
