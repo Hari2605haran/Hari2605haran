@@ -1,17 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I’m Hariharasudhan B  
 
-👋 Hi, I’m HARIHARASUDHAN B 
+## 👀 About Me  
+I’m a passionate **Computer Science and Engineering** student pursuing my **B.E degree** with a strong interest in **Network Security** and **Cybersecurity**. My focus is on building secure systems, uncovering vulnerabilities, and making the digital world safer.
 
-👀 I’m interested in Network Security
+## 🌱 Currently Learning  
+- Networking concepts and tools like **Kali Linux** and **Wireshark**.  
+- Techniques in **penetration testing**, **ethical hacking**, and **incident response**.
 
-🌱 I’m currently persuing degree in B.E Computer Science and Engineering
+## 💞️ Collaboration Goals  
+I’m actively looking to collaborate on:  
+- **Network security projects**  
+- **Bug bounty programs**  
+- **Cybersecurity research and innovations**
 
-💞️ I’m looking to collaborate on network security projects
+## 📫 Connect With Me  
+- **LinkedIn**: [Hariharasudhan B](https://www.linkedin.com/in/hariharasudhan-b-ab5039224/)  
+- **Email**: [YourEmail@example.com] (Optional: Add your email here if you want)  
 
-📫 How to reach me Linkedin[https://www.linkedin.com/in/hariharasudhan-b-ab5039224/]
+## 😄 Pronouns  
+He/Him  
 
-😄 Pronouns: He/Him
+## ⚡ Fun Fact  
+I love **hunting bugs** and discovering **network vulnerabilities**, turning potential threats into solutions!  
 
-⚡ Fun fact: hunting bugs and network vulnerabilities 
-
-
+---
+Let’s connect and collaborate to secure the digital landscape! 🚀  
