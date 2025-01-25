@@ -8,7 +8,7 @@
 
 💞️ I’m looking to collaborate on network security projects
 
-📫 How to reach me Linkedin
+📫 How to reach me Linkedin[https://www.linkedin.com/in/hariharasudhan-b-ab5039224/]
 
 😄 Pronouns: He/Him
 
