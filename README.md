@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Hariharasudhan B<br>🔒 Network Security Enthusiast | 💻 Aspiring Cybersecurity Professional<br><br>👀 I’m interested in: Network Security, Ethical Hacking, and Cyber Threat Analysis.<br>🌱 Currently Learning: Advanced Networking Concepts, Kali Linux, and Penetration Testing.<br>🎓 Education: Pursuing B.E in Computer Science and Engineering.<br>🤝 Open to Collaborate: On Network Security, Penetration Testing, and Cybersecurity projects.<br>📫 Reach Me At: LinkedIn<br>⚡ Fun Fact: I enjoy hunting bugs and uncovering network vulnerabilities in my free time.
+Hi there! 👋 I'm Hariharasudhan B<br>🔒 Network Security Enthusiast | 💻 Aspiring Cybersecurity Professional<br>👀 I’m interested in: Network Security, Ethical Hacking, and Cyber Threat Analysis.<br>🌱 Currently Learning: Advanced Networking Concepts, Kali Linux, and Penetration Testing.<br>🎓 Education: Pursuing B.E in Computer Science and Engineering.<br>🤝 Open to Collaborate: On Network Security, Penetration Testing, and Cybersecurity projects.<br>📫 Reach Me At: LinkedIn<br>⚡ Fun Fact: I enjoy hunting bugs and uncovering network vulnerabilities in my free time.
 
 
 ## 🌐 Socials:
